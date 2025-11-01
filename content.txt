@@ -1,0 +1,6 @@
+classObj
+Python is called OOP?-everything in python is an object(data structure,data type etc)
+oops advantage
+>you can create your own data types
+>code reusability
+>easy to colab
